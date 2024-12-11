@@ -1,0 +1,143 @@
+{
+    "abstract": "How smart is your kettle? How smart are things in your kitchen, your house, your neighborhood, on the internet? With the advent of Internet of Things, and the move of making devices `smart' by utilizing AI, a natural question arrises, how can we evaluate the progress. The standard way of evaluating AI is through the Turing Test. While Turing Test was designed for AI; the device that it was tailored to was a computer. Applying the test to variety of devices that constitute Internet of Things poses a number of challenges which could be addressed through a number of adaptations.",
+    "arxivId": "1412.3802",
+    "authors": [
+        {
+            "authorId": "2340691",
+            "name": "Neil Rubens",
+            "url": "https://www.semanticscholar.org/author/2340691"
+        }
+    ],
+    "citationVelocity": 0,
+    "citations": [],
+    "corpusId": 176786,
+    "doi": null,
+    "fieldsOfStudy": [
+        "Computer Science"
+    ],
+    "influentialCitationCount": 0,
+    "isOpenAccess": false,
+    "isPublisherLicensed": true,
+    "is_open_access": false,
+    "is_publisher_licensed": true,
+    "numCitedBy": 0,
+    "numCiting": 7,
+    "paperId": "8e455465092e1dd61b1bef62ae1f6f08ddf50051",
+    "references": [
+        {
+            "arxivId": null,
+            "authors": [
+                {
+                    "authorId": "2262347",
+                    "name": "A. Turing"
+                }
+            ],
+            "doi": "10.1093/MIND/LIX.236.433",
+            "intent": [
+                "methodology",
+                "background"
+            ],
+            "isInfluential": true,
+            "paperId": "2d5673caa9e6af3a7b82a43f19ee920992db07ad",
+            "title": "Computing Machinery and Intelligence",
+            "url": "https://www.semanticscholar.org/paper/2d5673caa9e6af3a7b82a43f19ee920992db07ad",
+            "venue": "The Philosophy of Artificial Intelligence",
+            "year": 1950
+        },
+        {
+            "arxivId": null,
+            "authors": [
+                {
+                    "authorId": "1682658",
+                    "name": "Gerd Kortuem"
+                },
+                {
+                    "authorId": "1776175",
+                    "name": "F. Kawsar"
+                },
+                {
+                    "authorId": "2346034",
+                    "name": "V. Sundramoorthy"
+                },
+                {
+                    "authorId": "145625611",
+                    "name": "Dan Fitton"
+                }
+            ],
+            "doi": "10.1109/MIC.2009.143",
+            "intent": [
+                "background"
+            ],
+            "isInfluential": false,
+            "paperId": "1ceeddab49e5fc2a192faf83815206392b5877c7",
+            "title": "Smart objects as building blocks for the Internet of things",
+            "url": "https://www.semanticscholar.org/paper/1ceeddab49e5fc2a192faf83815206392b5877c7",
+            "venue": "IEEE Internet Computing",
+            "year": 2010
+        },
+        {
+            "arxivId": null,
+            "authors": [
+                {
+                    "authorId": "3168880",
+                    "name": "U. Eisenecker"
+                }
+            ],
+            "doi": "10.3233/AIC-1995-8108",
+            "intent": [
+                "background"
+            ],
+            "isInfluential": false,
+            "paperId": "64ab6267114b3830708d0dbe4b6d78e2cfc959fb",
+            "title": "AI: The Tumultuous History of the Search for Artificial Intelligence",
+            "url": "https://www.semanticscholar.org/paper/64ab6267114b3830708d0dbe4b6d78e2cfc959fb",
+            "venue": "",
+            "year": 1995
+        },
+        {
+            "arxivId": null,
+            "authors": [
+                {
+                    "authorId": "144246233",
+                    "name": "B. Copeland"
+                }
+            ],
+            "doi": "10.5860/choice.31-4403",
+            "intent": [
+                "background"
+            ],
+            "isInfluential": false,
+            "paperId": "2fa2664817fe2784b55d53e13e30cb73cd6d3866",
+            "title": "Artificial Intelligence: A Philosophical Introduction",
+            "url": "https://www.semanticscholar.org/paper/2fa2664817fe2784b55d53e13e30cb73cd6d3866",
+            "venue": "",
+            "year": 1993
+        }
+    ],
+    "s2FieldsOfStudy": [
+        {
+            "category": "Computer Science",
+            "source": "external"
+        },
+        {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+        }
+    ],
+    "title": "Turing Test for the Internet of Things",
+    "topics": [
+        {
+            "topic": "Turing test",
+            "topicId": "117343",
+            "url": "https://www.semanticscholar.org/topic/117343"
+        },
+        {
+            "topic": "Internet of things",
+            "topicId": "51309",
+            "url": "https://www.semanticscholar.org/topic/51309"
+        }
+    ],
+    "url": "https://www.semanticscholar.org/paper/8e455465092e1dd61b1bef62ae1f6f08ddf50051",
+    "venue": "arXiv.org",
+    "year": 2014
+}
